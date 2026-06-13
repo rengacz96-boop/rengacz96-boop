@@ -1,4 +1,4 @@
-## Hi there 👋
+## Mi Biografia 👋
 Hola, soy una persona apasionada por la tecnología y el aprendizaje continuo. Este año comencé a estudiar la carrera de Técnico Superior en Desarrollo de Software, dando un paso importante hacia el mundo IT, un ámbito que siempre me llamó la atención.
 
 Cuento con experiencia previa en el rubro industrial, donde trabajé en una empresa textil y llegué a desempeñarme como Supervisor de Producción. Esta etapa me permitió desarrollar habilidades clave como liderazgo, organización, trabajo en equipo y resolución de problemas.

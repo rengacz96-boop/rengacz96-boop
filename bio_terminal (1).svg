@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="420" viewBox="0 0 620 420" fill="none">
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="619" height="419" rx="10" fill="#0d1117" stroke="#2ea043" stroke-width="1.5" />
+  <foreignObject x="1" y="1" width="618" height="418">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%;height:100%;background-color:#0d1117;font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;text-align:left;box-sizing:border-box;margin:0;padding:0;">
+          <div style="background-color:#161b22;padding:12px 15px;border-bottom:1px solid #2ea043;font-size:12px;color:#2ea043;font-weight:bold;letter-spacing:0.5px;">
+            <span style="color:#58a6ff;">$</span> bash terminal_info.sh
+          </div>
+          <div style="padding:22px;font-size:13px;line-height:1.65;color:#c9d1d9;">
+            <p style="margin:0 0 12px 0;"><span style="color:#58a6ff;">visitor@github:~$</span> cat biografia.md</p>
+            <div style="background-color:#161b22;padding:15px;border-left:3px solid #2ea043;margin-bottom:18px;border-radius:0 6px 6px 0;box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+              <strong style="color:#58a6ff;">👋 ¡Hola!</strong><br/><br/>
+              Actualmente cursando la carrera de <span style="color:#2ea043;font-weight:bold;">Técnico Superior en Desarrollo de Software</span> con el fin de dominar el desarrollo de software y aportar soluciones de tecnología.<br/><br/>
+              Mi experiencia previa se destaca como: <strong>Ex-Supervisor de Producción</strong>, una etapa que potenció mi capacidad organizativa.
+            </div>
+            <p style="margin:0 0 10px 0;"><span style="color:#58a6ff;">visitor@github:~$</span> ./soft_skills.sh</p>
+            <p style="margin:0 0 18px 0;color:#ff7b72;font-style:italic;">&gt;&gt; [Habilidades]: "Liderazgo, Organización, Trabajo en Equipo, Resolución de Problemas"</p>
+            <p style="margin:0 0 10px 0;"><span style="color:#58a6ff;">visitor@github:~$</span> echo $ENFOQUE</p>
+            <p style="margin:0;color:#79c0ff;">&gt;&gt; "Adquiriendo conocimientos técnicos para crecer en el sector de la programación."</p>
+            <p style="margin:18px 0 0 0;"><span style="color:#58a6ff;">visitor@github:~$</span><span style="display:inline-block;width:8px;height:15px;background-color:#2ea043;margin-left:4px;vertical-align:middle;animation:blink 1s infinite;"></span></p>
+          </div>
+        </div>
+  </foreignObject>
+</svg>

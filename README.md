@@ -1,1 +1,1 @@
-![Mi Biografía](bio_terminal1.svg)
+![Mi Biografía](bio_terminal2.svg)
